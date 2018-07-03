@@ -41,7 +41,7 @@ class App extends Component {
 				return <LoginForm />
 			default:
 				return (
-					<View>
+					<View style={{ paddingTop: 40 }}>
 						<Spinner size="large" />
 					</View>
 				);

@@ -27,7 +27,7 @@ const styles = {
 		flex: 1, // want button to fill as much content as possible
 		alignSelf: 'stretch',
 		backgroundColor: '#fff',
-		borderRadius: 1,
+		borderRadius: 5,
 		borderWidth: 1,
 		borderColor: '#007aff',
 		marginLeft: 5,
